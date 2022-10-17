@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ElsassKabel")(type "KiCad")(uri "${KIPRJMOD}/kicad_lib/symbols/ElsassKabel.kicad_sym")(options "")(descr "ElsassKabel Symbols library"))
+)
