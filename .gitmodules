@@ -1,3 +1,4 @@
 [submodule "pcb/kicad_lib"]
 	path = pcb/kicad_lib
 	url = git@github.com:ElsassKabel/kicad_lib.git
+	branch = main
